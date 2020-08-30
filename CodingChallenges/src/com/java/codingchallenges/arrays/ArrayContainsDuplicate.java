@@ -6,7 +6,7 @@ public class ArrayContainsDuplicate {
 
 	public static void main(String[] args) {
 		
-		int arr[] = {1,2,3,4};
+		int arr[] = {1,3,3,4};
 		System.out.println(containsDuplicate(arr));
 		containsDuplicatesWithConstantSpace();
 	}
